@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the one and only OCALLAGHAN WORLD BANK 
 
-You can use the [editor on GitHub](https://github.com/jocall3/king/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Head over to [J.O.Private Bank](https://www.James-Ocallaghan-Private-bank.mailchimpsites.com) to create an account unique of its kind. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
